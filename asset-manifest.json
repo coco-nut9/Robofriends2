@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/coco-nut9/robofriends.git/static/css/main.2305f27c.chunk.css",
+    "main.js": "/coco-nut9/robofriends.git/static/js/main.9c146aed.chunk.js",
+    "main.js.map": "/coco-nut9/robofriends.git/static/js/main.9c146aed.chunk.js.map",
+    "runtime-main.js": "/coco-nut9/robofriends.git/static/js/runtime-main.7709452a.js",
+    "runtime-main.js.map": "/coco-nut9/robofriends.git/static/js/runtime-main.7709452a.js.map",
+    "static/css/2.fe359a49.chunk.css": "/coco-nut9/robofriends.git/static/css/2.fe359a49.chunk.css",
+    "static/js/2.16daa031.chunk.js": "/coco-nut9/robofriends.git/static/js/2.16daa031.chunk.js",
+    "static/js/2.16daa031.chunk.js.map": "/coco-nut9/robofriends.git/static/js/2.16daa031.chunk.js.map",
+    "static/js/3.ab82cfcb.chunk.js": "/coco-nut9/robofriends.git/static/js/3.ab82cfcb.chunk.js",
+    "static/js/3.ab82cfcb.chunk.js.map": "/coco-nut9/robofriends.git/static/js/3.ab82cfcb.chunk.js.map",
+    "index.html": "/coco-nut9/robofriends.git/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/coco-nut9/robofriends.git/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.2305f27c.chunk.css.map": "/coco-nut9/robofriends.git/static/css/main.2305f27c.chunk.css.map",
+    "static/js/2.16daa031.chunk.js.LICENSE.txt": "/coco-nut9/robofriends.git/static/js/2.16daa031.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/coco-nut9/robofriends.git/static/media/SEGA.bf7631cc.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7709452a.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.16daa031.chunk.js",
+    "static/css/main.2305f27c.chunk.css",
+    "static/js/main.9c146aed.chunk.js"
+  ]
+}
